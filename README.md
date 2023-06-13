@@ -23,6 +23,6 @@ Simple implementation of ethereum blockchain based horse-betting system. This pr
 2. Specify your betting amount (it's in Wei; 1 Ether = 10<sup>18</sup> Wei).
 3. Click on Bet, your betting result will be reflected in the racing history and your Ether balance.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Indraa145/ethereum_horse_betting/blob/main/horse_betting_system.jpg)
 
 Note: If you're having problem with the user interface, you should download MDBootstrap first and put it in the src directory, because I couldn't upload the full bootstrap file in GitHub.

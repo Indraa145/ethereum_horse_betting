@@ -1,5 +1,5 @@
 # ethereum_horse_betting
-Simple implementation of ethereum blockchain based horse-betting system. This program uses this repository as the codebase: https://github.com/liz7124/Simple-BC-based-voting-system-nodejs 
+Simple implementation of ethereum blockchain based horse-betting system. This program was made for the Blockchain Course at Dongseo University. This program uses this repository as the codebase: https://github.com/liz7124/Simple-BC-based-voting-system-nodejs 
 
 ### Run
 1. Install dependencies in ```setup.sh```.
@@ -22,5 +22,7 @@ Simple implementation of ethereum blockchain based horse-betting system. This pr
 1. Choose a horse you want to bet on.
 2. Specify your betting amount (it's in Wei; 1 Ether = 10<sup>18</sup> Wei).
 3. Click on Bet, your betting result will be reflected in the racing history and your Ether balance.
+
+![alt text](http://url/to/img.png)
 
 Note: If you're having problem with the user interface, you should download MDBootstrap first and put it in the src directory, because I couldn't upload the full bootstrap file in GitHub.

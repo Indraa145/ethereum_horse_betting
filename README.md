@@ -1,6 +1,9 @@
 # ethereum_horse_betting
 Simple implementation of ethereum blockchain based horse-betting system. This program was made for the Blockchain Course at Dongseo University. This program uses this repository as the codebase: https://github.com/liz7124/Simple-BC-based-voting-system-nodejs 
 
+Video Demo:
+https://youtu.be/lmZWb1Lsf8A
+
 ### Run
 1. Install dependencies in ```setup.sh```.
 2. Run ```ganache-cli -m dongseo``` for the Ethereum Client.
